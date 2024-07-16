@@ -78,3 +78,12 @@ nav ul li {
  .developer-detail{
     width: 450px;
  }
+ /* My Inspiration */   
+ .youtube-video{
+    /* display: flex;
+    justify-content: center; */
+ }
+ .video{
+    margin-left: 250px;
+    margin-right: 250px;
+ }
