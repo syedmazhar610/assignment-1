@@ -112,3 +112,10 @@ nav ul li {
     padding: 20px 0;
     margin: 50px auto;
  }
+
+ /* footer */
+ .footer-division{
+    display:flex;
+    justify-content: space-between;
+
+ }
