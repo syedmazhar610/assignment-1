@@ -1,0 +1,80 @@
+.layer1{
+   float: right;
+   justify-items: right;
+    
+}
+.nob-1{
+    text-align: left;
+}
+.continer{
+    margin: 40px 150px;
+    text-align: center;
+    padding: 20px;
+   background-color: rgb(248, 244, 244);
+   width: 1140px;
+   height: 1395px;
+   display: flex;
+}
+
+.section-box{
+    background-color: white;
+
+}
+
+/* Nav styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 28px 150px;
+}
+nav ul{
+    display: flex;
+    
+}
+.nav{
+    font-weight: 800;
+    font-size: 28px;
+}
+.my image{
+max-width: 580px;
+}
+.banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/Hero-bg.png) ;
+
+}
+
+nav ul li {
+    list-style: none;
+}
+.button-blog{
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    margin: auto;
+    height: 66px;
+    width: 208px;
+  }
+ /* ----------------------- Why Web Development??------------------------*/
+ .container-section{
+    margin: 50px auto;
+    width: 1140px;
+    border: 2px solid red;
+ }
+ .developer-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+ .developer-detail{
+    width: 450px;
+ }
